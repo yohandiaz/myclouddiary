@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~/myclouddiary
+
+sudo bundle exec jekyll serve
+
