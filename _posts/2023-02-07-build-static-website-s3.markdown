@@ -8,7 +8,14 @@ categories: AWS S3 ROUTE53 CLOUDFRONT JEKYLL WEBAPP
 # Building and deploying a static website using Amazon S3, Jekyll, Route 53 and CloudFront
 
 ## Introduction:
-This time I will guide you through the process of creating My Cloud Diary. I accomplished this with the help of Jekyll, a powerful tool that generates static websites with themes that are both cool and easy to customize. Additionally, I utilized an S3 Bucket to host the website. To further enhance the site, I set up a DNS service using Route 53 and employed CloudFront to cache the website in multiple locations arount the world, reducing latency and ensuring quick delivery of the blog.
+
+Welcome to our cloud blog, where we explore the latest developments and innovations in cloud computing. In today's article, we will be discussing how to build and deploy a static website using some of Amazon Web Services' (AWS) most popular services - Amazon S3, Jekyll, Route 53, and CloudFront.
+
+Static websites are an excellent choice for a variety of use cases, such as personal blogs, online portfolios, or corporate landing pages. They are simple to develop, inexpensive to host, and can handle high levels of traffic without performance issues. With AWS, building and deploying a static website can be even more straightforward, thanks to the tools and services they offer.
+
+In this article, we will walk you through the process of creating a static website using Jekyll, a popular static site generator, and deploying it using AWS services, such as Amazon S3 for hosting, Route 53 for DNS management, and CloudFront for content delivery. We will cover everything you need to know, from creating your website, to configuring your domain name, to setting up a secure and scalable infrastructure to host and deliver your website to visitors.
+
+Whether you're a web developer, a content creator, or an AWS enthusiast, understanding how to build and deploy a static website using AWS services can be a valuable addition to your skillset. So, let's dive in and explore this topic in more detail, and discover how AWS can help you create and deploy static websites more efficiently and effectively.
 
 ## Technologies description:
 

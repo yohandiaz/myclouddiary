@@ -2,4 +2,4 @@
 
 cd ~/myclouddiary
 
-aws s3 sync _site s3://myclouddiary
+aws s3 sync _site s3://mycloud-diary.com
